@@ -1,5 +1,5 @@
 # Ubuntu-and-Debian-tune
-guide to get a system tuned for responsiveness
+guide to get a system tuned for responsiveness (helps with gaming, VMs, and desktop system feel)
 
 # (i can only confirm for ubuntu on this one)
 # for official repository solution
