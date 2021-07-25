@@ -4,7 +4,7 @@ guide to get a system tuned for responsiveness (helps with gaming, VMs, and desk
 (i can only confirm for ubuntu on this one)
 # for official repository solution
 
-``sudo apt install linux-lowlatancy linux-low-latency-headers``
+Ubuntu: ``sudo apt install linux-lowlatancy linux-low-latency-headers``
 
 # for my personal favourite which is a similar to the version of the Arch linux Zen kernel (but for Ubuntu/Debian)
 remove for the ubuntu part the ``-get`` on ``apt-get update`` and ``apt-get install`` it is no longer needed
