@@ -10,4 +10,6 @@ Ubuntu: ``sudo apt install linux-lowlatancy linux-low-latency-headers``
 remove for the ubuntu part the ``-get`` on ``apt-get update`` and ``apt-get install`` it is no longer needed
 ![liquorix-install](https://user-images.githubusercontent.com/84853445/126890362-963dc6cf-069a-440d-9b19-8bffca0fb6a3.png)
  
+ 
+ lastly ``sudo reboot``
 # go show your ![support](https://liquorix.net/)
