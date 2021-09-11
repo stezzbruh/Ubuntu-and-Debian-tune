@@ -12,4 +12,4 @@ remove for the ubuntu part the ``-get`` on ``apt-get update`` and ``apt-get inst
  
  
  lastly ``sudo reboot``
-# go show your ![support](https://liquorix.net/)
+# go show your [support](https://liquorix.net/)
