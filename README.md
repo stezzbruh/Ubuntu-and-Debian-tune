@@ -1,4 +1,4 @@
-# Ubuntu-and-Debian-tune 
+# Ubuntu-tune (obsolete)
 guide to get a system tuned for responsiveness (helps with gaming, VMs, and desktop system feel)
 
 (i can only confirm for ubuntu on this one)
